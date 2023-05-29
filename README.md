@@ -1,2 +1,2 @@
 # mern
-DALL-E marn app
+DALL-E mern app
